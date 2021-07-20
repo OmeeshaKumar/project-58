@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: linear-gradient(aqua 0%, mediumpurple 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: cursive;
+}
+
+#bio {
+    font-size: 65px;
+}
+
+.links {
+    display: inline;
+    padding: 30px;
+    font-size: 50px;
+    color: aqua;
+ font-family: 'Lobster', cursive;
+}
